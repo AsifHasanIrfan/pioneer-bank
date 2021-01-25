@@ -1,0 +1,8 @@
+body{
+    padding: 100px;
+}
+.submit-area{
+    border-radius: 10px;
+    box-shadow: 4px 4px 15px lightgray;
+    padding: 50px;
+}
